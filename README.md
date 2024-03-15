@@ -32,3 +32,6 @@ La **interfaz** de Blender consta de tres partes diferenciadas:<p></p>
 <blockquote>Cómo editar las ventanas del área de trabajo, con click y arrastrar.</blockquote>
 
 ## [Continuar a Controles básicos](https://github.com/AMDLC/UFV_JPA/blob/main/Controles%20b%C3%A1sicos.md)
+
+## Descarga de materiales Arte 3D
+[JPA Marzo 2024](https://universidadfv-my.sharepoint.com/:f:/g/personal/alejandro_montiel_ufv_es/EnRyY1SOHqxHmIqudhsr57EBNN4Bz5HGTfO4kbOw6bQ1XQ?e=AKXLIM)
