@@ -2,12 +2,11 @@
 
 <details>
 <summary>¿Cómo mover los objetos?</summary>
-</details>
 
 Con un objeto activo seleccionado, se pueden realizar transformaciones que alteran los valores de **posición, rotación o escala de su punto de origen**, que actúa sobre el objeto y la información que contiene.<p>
 <img size="80%" src=https://github.com/AMDLC/UFV_JPA/assets/157854852/8622629c-531f-4fcd-8ebe-e7c05168f216> <blockquote>Selección y transformaciones</blockquote><p>
 
-
+</details>
 ---
 
 <details>
@@ -23,5 +22,7 @@ Para duplicar los objetos *en conjunto* se puede utilizar una instrucción llama
 ---
 
 <details>
-<summary>¿Cómo mover los objetos?</summary>
+<summary>¿Cómo deshacer un cambio o cancelar una acción?</summary>
+Para cancelar una acción se puede hacer click derecho con el ratón `RMB`
+Para deshacer acciones se puede usar el comando *Undo* `Ctrl` + `Z`
 </details>
