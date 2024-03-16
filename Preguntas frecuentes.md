@@ -7,6 +7,7 @@ Con un objeto activo seleccionado, se pueden realizar transformaciones que alter
 <img size="80%" src=https://github.com/AMDLC/UFV_JPA/assets/157854852/8622629c-531f-4fcd-8ebe-e7c05168f216> <blockquote>Selección y transformaciones</blockquote><p>
 
 </details>
+
 ---
 
 <details>
