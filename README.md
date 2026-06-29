@@ -35,4 +35,4 @@ La **interfaz** de Blender consta de tres partes diferenciadas:<p></p>
 ## [Continuar a Preguntas frecuentes](https://github.com/AMDLC/UFV_JPA/blob/main/Preguntas%20frecuentes.md)
 ## [Descarga de materiales Arte 3D](https://universidadfv-my.sharepoint.com/:u:/g/personal/alejandro_montiel_ufv_es/Ef_av_fnPdlAptmAo-X0cukBg6a0t9fcsh80d9cbLgmgaA?e=QTw5fU)
 <br></br>  
-## [Subir el resultado a esta dirección](https://universidadfv-my.sharepoint.com/:f:/g/personal/alejandro_montiel_ufv_es/EgLMMGsJqTNDjyDhtsQNDIYBqd1cipzNSlNawkfz02SwLQ?e=OZRDaZ)
+## [Subir el resultado a esta dirección](https://universidadfv-my.sharepoint.com/:f:/g/personal/alejandro_montiel_ufv_es/IgBceAYfqnRFSLHAt4-5UAX5AZHGYti2AdQqm2asvjpaYbU?e=fBW9sb)
